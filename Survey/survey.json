@@ -1,0 +1,23 @@
+{
+  "Sport": {
+    "votes": {
+      "Favorite sport": {
+        "author": "nastya",
+        "name": "Favorite sport",
+        "vote_topic": "Choose favorite",
+        "answer_number": 3,
+        "votes_count": 1,
+        "answers": {
+          "Tennis": 0,
+          "Hockey": 1,
+          "Football": 0
+        }
+      }
+    },
+    "votes_count": 1
+  },
+  "Food": {
+    "votes": {},
+    "votes_count": 0
+  }
+}
